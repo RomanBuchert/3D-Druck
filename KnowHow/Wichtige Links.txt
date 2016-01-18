@@ -1,0 +1,5 @@
+Heizbett Reglereinstellung: http://reprap.org/wiki/Heatbeds_-_A_beginner's_guide
+Bed leveling G-Startcode, Auto Bedleveling: http://www.3d-proto.de/index.php?p=tips_autobed
+Kalibrierung, Slicer: http://richrap.blogspot.de/2012/01/slic3r-is-nicer-part-1-settings-and.html
+Druckersteuerung: https://github.com/kliment/Printrun
+
