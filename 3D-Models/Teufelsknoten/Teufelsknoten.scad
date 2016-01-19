@@ -1,5 +1,5 @@
 
-SCALE=5.0;
+SCALE=5; //Scale=1.0 means one piece is size of 2x2x10mm
 GAP=0.5;
 
 BIT = 1.0 * SCALE;
